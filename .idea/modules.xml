@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyJava.iml" filepath="$PROJECT_DIR$/MyJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1/day1.iml" filepath="$PROJECT_DIR$/day1/day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ke_test/ke_test.iml" filepath="$PROJECT_DIR$/ke_test/ke_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kt_test/kt_test.iml" filepath="$PROJECT_DIR$/kt_test/kt_test.iml" />
+    </modules>
+  </component>
+</project>
