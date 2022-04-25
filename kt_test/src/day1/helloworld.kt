@@ -1,10 +1,16 @@
 package day1
 
-fun sum(a:Int, b:Int):Int{
-    return a+b
+fun printBorder(border:String, timeBorder:Int){
+    repeat(timeBorder){
+        print(border)
+    }
+    println()
 }
-
 fun main(){
-    println("helloworld")
-    println(sum(3,4))
+    val border="`-._,-'"
+    val time=4
+    val name="kotlin"
+    printBorder(border,time)
+    println("Happy Birthday, ${name}!")
+    printBorder(border,time)
 }
