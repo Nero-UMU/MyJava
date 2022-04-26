@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/day3/src/test/printfun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/src/test/reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/src/duixiang/one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/src/duixiang/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/src/duixiang/studentDuixiang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/src/phone/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/src/phone/xiaomi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,26 +56,13 @@
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.printfun">
-    <configuration name="array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacode.array" />
-      <module name="day2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="morearray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.morearray" />
+  <component name="RunManager" selected="Application.demo1">
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phone.demo1" />
       <module name="day3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="phone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="overloadprint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacode.overloadprint" />
-      <module name="day2" />
+    <configuration name="one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="duixiang.one" />
+      <module name="day3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacode.*" />
+          <option name="PATTERN" value="duixiang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="studentDuixiang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="duixiang.studentDuixiang" />
+      <module name="day3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="duixiang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo1" />
+        <item itemvalue="Application.studentDuixiang" />
+        <item itemvalue="Application.one" />
         <item itemvalue="Application.printfun" />
         <item itemvalue="Application.reverse" />
-        <item itemvalue="Application.morearray" />
-        <item itemvalue="Application.array" />
-        <item itemvalue="Application.overloadprint" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +146,7 @@
       <workItem from="1650789156863" duration="898000" />
       <workItem from="1650875983979" duration="6914000" />
       <workItem from="1650891446184" duration="5364000" />
-      <workItem from="1650974605666" duration="3715000" />
+      <workItem from="1650974605666" duration="5959000" />
     </task>
     <task id="LOCAL-00001" summary="note">
       <created>1650723177016</created>
@@ -201,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650976293935</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="note">
+      <created>1650979329334</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1650979329334</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
