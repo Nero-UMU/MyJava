@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/demo1/fengzhuang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/demo1/shili.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/demo1/siyou.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/demo2/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/demo2/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/gouzao/stu1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/gouzao/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/siyouDemo/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/siyouDemo/student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,30 +43,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "11",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.demo1">
-    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phone.demo1" />
-      <module name="day3" />
+}</component>
+  <component name="RunManager" selected="Application.stu1">
+    <configuration name="fengzhuang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo1.fengzhuang" />
+      <module name="day4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="phone.*" />
+          <option name="PATTERN" value="demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="duixiang.one" />
-      <module name="day3" />
+    <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo2.hello" />
+      <module name="day4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="duixiang.*" />
+          <option name="PATTERN" value="demo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printfun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.printfun" />
-      <module name="day3" />
+    <configuration name="person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="siyouDemo.person" />
+      <module name="day4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="siyouDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.reverse" />
-      <module name="day3" />
+    <configuration name="shili" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo1.shili" />
+      <module name="day4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="studentDuixiang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="duixiang.studentDuixiang" />
-      <module name="day3" />
+    <configuration name="stu1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gouzao.stu1" />
+      <module name="day4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="duixiang.*" />
+          <option name="PATTERN" value="gouzao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.demo1" />
-        <item itemvalue="Application.studentDuixiang" />
-        <item itemvalue="Application.one" />
-        <item itemvalue="Application.printfun" />
-        <item itemvalue="Application.reverse" />
+        <item itemvalue="Application.stu1" />
+        <item itemvalue="Application.hello" />
+        <item itemvalue="Application.person" />
+        <item itemvalue="Application.shili" />
+        <item itemvalue="Application.fengzhuang" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +151,9 @@
       <workItem from="1651149023019" duration="58000" />
       <workItem from="1651149137225" duration="12000" />
       <workItem from="1651149187666" duration="231000" />
+      <workItem from="1651149729653" duration="508000" />
+      <workItem from="1651150274122" duration="97000" />
+      <workItem from="1651150380719" duration="3704000" />
     </task>
     <task id="LOCAL-00001" summary="note">
       <created>1650723177016</created>
@@ -219,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650981731774</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="note">
+      <created>1651149488036</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1651149488036</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
