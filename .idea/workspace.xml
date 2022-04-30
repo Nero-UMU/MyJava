@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/day4/src/demo1/fengzhuang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/demo1/shili.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/demo1/siyou.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/demo2/hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/demo2/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/gouzao/stu1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/gouzao/student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/siyouDemo/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/siyouDemo/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/demo3/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/demo3/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/src/gouzao/stu1.java" beforeDir="false" afterPath="$PROJECT_DIR$/day4/src/gouzao/stu1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/src/gouzao/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day4/src/gouzao/student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,20 +50,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.stu1">
-    <configuration name="fengzhuang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo1.fengzhuang" />
-      <module name="day4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.test">
     <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demo2.hello" />
       <module name="day4" />
@@ -121,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo3.test" />
+      <module name="day4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.stu1" />
         <item itemvalue="Application.hello" />
         <item itemvalue="Application.person" />
         <item itemvalue="Application.shili" />
-        <item itemvalue="Application.fengzhuang" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +148,8 @@
       <workItem from="1651149187666" duration="231000" />
       <workItem from="1651149729653" duration="508000" />
       <workItem from="1651150274122" duration="97000" />
-      <workItem from="1651150380719" duration="3704000" />
+      <workItem from="1651150380719" duration="8644000" />
+      <workItem from="1651281366974" duration="742000" />
     </task>
     <task id="LOCAL-00001" summary="note">
       <created>1650723177016</created>
@@ -232,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651149488036</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="note">
+      <created>1651154099029</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1651154099029</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
