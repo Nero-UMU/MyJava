@@ -21,6 +21,6 @@ public class game {
                 break;
             }
         }
-        System.out.println("游戏结束");
+        System.out.println("game over!");
     }
 }
