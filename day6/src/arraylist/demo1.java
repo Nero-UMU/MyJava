@@ -16,9 +16,9 @@ public class demo1 {
         // jdk1.7开始，右边的尖括号可以不写内容
         ArrayList<String> list = new ArrayList<>();
 
-        list.add("biubiubiu");
-        list.add("piupiupiu");
-        list.add("biabiabia");
+        list.add("biubiubiu~");
+        list.add("piupiupiu~");
+        list.add("biabiabia~");
         System.out.println(list);
     }
 }
