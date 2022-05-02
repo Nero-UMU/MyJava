@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/day6/day6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/src/arrayListStudent/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/src/arrayListStudent/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/src/arraylist/arraylistmethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/src/arraylist/demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/src/arraylist/demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/src/print/demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/src/equal/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/src/string/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/src/string/demo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day5/src/arraylist/demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/day6/src/arraylist/demo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +25,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/day6/src/string/demo2.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -57,7 +54,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.print.demo1">
+  <component name="RunManager" selected="Application.equal.demo1">
     <configuration name="arrayListStudent.demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrayListStudent.demo1" />
       <module name="day6" />
@@ -71,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arraylistmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylist.arraylistmethod" />
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.demo1" />
       <module name="day6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraylist.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,25 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylist.demo2" />
+    <configuration name="equal.demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="equal.demo1" />
       <module name="day6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraylist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylist.demo3" />
-      <module name="day6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arraylist.*" />
+          <option name="PATTERN" value="equal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="string.demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.demo2" />
+      <module name="day6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.equal.demo1" />
+        <item itemvalue="Application.string.demo2" />
+        <item itemvalue="Application.demo1" />
         <item itemvalue="Application.print.demo1" />
         <item itemvalue="Application.arrayListStudent.demo1" />
-        <item itemvalue="Application.demo3" />
-        <item itemvalue="Application.demo2" />
-        <item itemvalue="Application.arraylistmethod" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +159,7 @@
       <workItem from="1651414042200" duration="1587000" />
       <workItem from="1651422274551" duration="2040000" />
       <workItem from="1651424324675" duration="218000" />
-      <workItem from="1651495593620" duration="3074000" />
+      <workItem from="1651495593620" duration="6408000" />
     </task>
     <task id="LOCAL-00001" summary="note">
       <created>1650723177016</created>
@@ -269,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651424483730</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="note">
+      <created>1651498674250</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1651498674250</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
