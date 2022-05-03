@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/day7/day7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/src/string/convert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/src/string/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/src/string/subString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/string/split.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/src/string/convert.java" beforeDir="false" afterPath="$PROJECT_DIR$/day7/src/string/convert.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,10 +56,10 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.subString">
-    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.demo1" />
-      <module name="day6" />
+  <component name="RunManager" selected="Application.split">
+    <configuration name="convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.convert" />
+      <module name="day7" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="string.*" />
@@ -86,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="string.demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.demo1" />
+    <configuration name="split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.split" />
       <module name="day7" />
       <extension name="coverage">
         <pattern>
@@ -99,9 +96,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="string.demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.demo2" />
-      <module name="day6" />
+    <configuration name="string.demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.demo1" />
+      <module name="day7" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="string.*" />
@@ -127,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.split" />
+        <item itemvalue="Application.convert" />
         <item itemvalue="Application.subString" />
         <item itemvalue="Application.string.demo1" />
         <item itemvalue="Application.equal.demo1" />
-        <item itemvalue="Application.string.demo2" />
-        <item itemvalue="Application.demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +163,7 @@
       <workItem from="1651424324675" duration="218000" />
       <workItem from="1651495593620" duration="6518000" />
       <workItem from="1651583110313" duration="171000" />
-      <workItem from="1651583304409" duration="1419000" />
+      <workItem from="1651583304409" duration="2296000" />
     </task>
     <task id="LOCAL-00001" summary="note">
       <created>1650723177016</created>
@@ -294,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651583120937</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="note">
+      <created>1651584894489</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1651584894489</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
