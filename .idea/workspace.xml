@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/day8/src/jicheng/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8/src/jicheng/emploee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8/src/jicheng/teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/src/chongming/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/src/chongming/fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/src/chongming/zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/src/override/child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/src/override/father.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,13 +60,26 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.jicheng.demo1">
+  <component name="RunManager" selected="Application.demo1">
     <configuration name="arrFunc.demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrFunc.demo1" />
       <module name="day8" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="arrFunc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chongming.demo1" />
+      <module name="day8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chongming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,26 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="methodStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.methodStatic" />
-      <module name="day7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fun.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo1" />
         <item itemvalue="Application.jicheng.demo1" />
         <item itemvalue="Application.math.demo1" />
         <item itemvalue="Application.arrFunc.demo1" />
         <item itemvalue="Application.demo2" />
-        <item itemvalue="Application.methodStatic" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +171,7 @@
       <workItem from="1651593569966" duration="3319000" />
       <workItem from="1651620170340" duration="443000" />
       <workItem from="1651670591766" duration="959000" />
-      <workItem from="1651738807247" duration="4741000" />
+      <workItem from="1651738807247" duration="7662000" />
     </task>
     <task id="LOCAL-00001" summary="note">
       <created>1650723177016</created>
@@ -346,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651740501906</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="note">
+      <created>1651751622953</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1651751622953</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
