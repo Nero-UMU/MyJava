@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/day9/day9.iml" filepath="$PROJECT_DIR$/day9/day9.iml" />
       <module fileurl="file://$PROJECT_DIR$/ke_test/ke_test.iml" filepath="$PROJECT_DIR$/ke_test/ke_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/kt_test/kt_test.iml" filepath="$PROJECT_DIR$/kt_test/kt_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laptop/laptop.iml" filepath="$PROJECT_DIR$/laptop/laptop.iml" />
       <module fileurl="file://$PROJECT_DIR$/redbag/redbag.iml" filepath="$PROJECT_DIR$/redbag/redbag.iml" />
     </modules>
   </component>

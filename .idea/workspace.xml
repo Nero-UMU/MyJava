@@ -5,18 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/day10/day10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/multi/child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/multi/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/multi/father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/test1/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/test1/demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/test1/fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/test1/zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/finalLei/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/finalLei/fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/finalLei/myClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/finalLei/zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/innerClass/body.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/innerClass/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/jubuneibulei/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/zhuanxing/animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/zhuanxing/cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/zhuanxing/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/zhuanxing/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/zhuanxing/dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laptop/laptop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laptop/src/laptop/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laptop/src/laptop/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laptop/src/laptop/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laptop/src/laptop/USB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laptop/src/laptop/demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day9/src/jingtai/demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day9/src/jingtai/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day9/src/jingtai/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +75,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.test1.demo1">
-    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multi.demo1" />
+  <component name="RunManager" selected="Application.innerClass.demo">
+    <configuration name="finalLei.demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalLei.demo" />
       <module name="day10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multi.*" />
+          <option name="PATTERN" value="finalLei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test1.demo2" />
+    <configuration name="innerClass.demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="innerClass.demo" />
       <module name="day10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test1.*" />
+          <option name="PATTERN" value="innerClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,25 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jingtaiInterface.demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jingtaiInterface.demo" />
-      <module name="day9" />
+    <configuration name="laptop.demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="laptop.demo" />
+      <module name="laptop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jingtaiInterface.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="siyou.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="siyou.test" />
-      <module name="day9" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="siyou.*" />
+          <option name="PATTERN" value="laptop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,13 +128,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zhuanxing.demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zhuanxing.demo2" />
+      <module name="day10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zhuanxing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.innerClass.demo" />
+        <item itemvalue="Application.finalLei.demo" />
         <item itemvalue="Application.test1.demo1" />
-        <item itemvalue="Application.demo2" />
-        <item itemvalue="Application.demo1" />
-        <item itemvalue="Application.jingtaiInterface.demo" />
-        <item itemvalue="Application.siyou.test" />
+        <item itemvalue="Application.laptop.demo" />
+        <item itemvalue="Application.zhuanxing.demo2" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +190,7 @@
       <workItem from="1651766187535" duration="2055000" />
       <workItem from="1651817387922" duration="1652000" />
       <workItem from="1651819325213" duration="20548000" />
-      <workItem from="1651904746111" duration="1884000" />
+      <workItem from="1651904746111" duration="13965000" />
     </task>
     <task id="LOCAL-00001" summary="note">
       <created>1650723177016</created>
@@ -422,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651842479933</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="note">
+      <created>1651906876217</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1651906876217</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
