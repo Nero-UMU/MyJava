@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/day10/src/niMingNeiBuLei/demoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/niMingNeiBuLei/myInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/niMingNeiBuLei/myInterfaceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -175,7 +172,7 @@
       <workItem from="1651817387922" duration="1652000" />
       <workItem from="1651819325213" duration="20548000" />
       <workItem from="1651904746111" duration="14715000" />
-      <workItem from="1651977361897" duration="4942000" />
+      <workItem from="1651977361897" duration="8796000" />
     </task>
     <task id="LOCAL-00001" summary="note">
       <created>1650723177016</created>
@@ -436,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651978781445</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="note">
+      <created>1651993608142</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1651993608142</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
