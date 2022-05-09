@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
+      <change afterPath="$PROJECT_DIR$/api-day1/api-day1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day1/src/object/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day1/src/object/demo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +60,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.niMingNeiBuLei.demoMain">
+  <component name="RunManager" selected="Application.demo01">
+    <configuration name="demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object.demo01" />
+      <module name="api-day1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="demoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jubuneibulei.demoMain" />
       <module name="day10" />
@@ -109,26 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1.demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test1.demo1" />
-      <module name="day10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo01" />
         <item itemvalue="Application.niMingNeiBuLei.demoMain" />
         <item itemvalue="Application.demoMain" />
         <item itemvalue="Application.innerClass.demo" />
         <item itemvalue="Application.finalLei.demo" />
-        <item itemvalue="Application.test1.demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +176,8 @@
       <workItem from="1651817387922" duration="1652000" />
       <workItem from="1651819325213" duration="20548000" />
       <workItem from="1651904746111" duration="14715000" />
-      <workItem from="1651977361897" duration="8796000" />
+      <workItem from="1651977361897" duration="12460000" />
+      <workItem from="1652086130438" duration="3207000" />
     </task>
     <task id="LOCAL-00001" summary="note">
       <created>1650723177016</created>
@@ -440,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651993608142</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="note">
+      <created>1651999439526</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1651999439526</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

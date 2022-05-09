@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyJava.iml" filepath="$PROJECT_DIR$/MyJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-day1/api-day1.iml" filepath="$PROJECT_DIR$/api-day1/api-day1.iml" />
       <module fileurl="file://$PROJECT_DIR$/day/day.iml" filepath="$PROJECT_DIR$/day/day.iml" />
       <module fileurl="file://$PROJECT_DIR$/day1/day1.iml" filepath="$PROJECT_DIR$/day1/day1.iml" />
       <module fileurl="file://$PROJECT_DIR$/day10/day10.iml" filepath="$PROJECT_DIR$/day10/day10.iml" />
