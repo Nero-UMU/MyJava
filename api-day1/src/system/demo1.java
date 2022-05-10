@@ -1,6 +1,5 @@
 package system;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class demo1 {
@@ -10,7 +9,7 @@ public class demo1 {
     }
 
     public static void method1(){
-        //currentTimeMillis方法获取
+        //currentTimeMillis方法获取当前的时间
         long s = System.currentTimeMillis();
         for (int i = 0; i < 9999; i++) {
             System.out.println(i);
@@ -25,6 +24,7 @@ public class demo1 {
         System.out.println(Arrays.toString(arr1));
         System.out.println(Arrays.toString(arr2));
 
+        //arraycopy复制数组的指定的元素
         System.arraycopy(arr1,0,arr2,0,3);
         System.out.println(Arrays.toString(arr1));
         System.out.println(Arrays.toString(arr2));
