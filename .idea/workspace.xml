@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/api-day2/api-day2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day2/src/Collection/changyong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,7 +177,7 @@
       <workItem from="1652165855578" duration="539000" />
       <workItem from="1652329990765" duration="31000" />
       <workItem from="1652330031379" duration="32000" />
-      <workItem from="1652337767099" duration="984000" />
+      <workItem from="1652337767099" duration="4285000" />
     </task>
     <task id="LOCAL-00001" summary="note">
       <created>1650723177016</created>
@@ -476,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652165871814</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="note">
+      <created>1652338934914</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1652338934914</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
