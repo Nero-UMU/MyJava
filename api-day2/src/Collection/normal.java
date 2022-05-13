@@ -23,11 +23,12 @@ public class normal {
         System.out.println(coll);
         System.out.println(coll.contains("赵六"));//contains方法判断是否包含元素
         System.out.println(coll.isEmpty());//isEmpty判断集合是否为空
-        System.out.println(coll.size());//返回元素的长度
+        System.out.println(coll.size());//返回集合的长度
 
         Object[] arr = coll.toArray();//把集合中的元素存储到数组中
         for (int i = 0; i < arr.length; i++) {
             System.out.println(arr[i]);
         }
+        System.out.println(coll);
     }
 }

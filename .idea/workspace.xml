@@ -5,7 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
+      <change afterPath="$PROJECT_DIR$/api-day2/src/diedai/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day2/src/fanxing/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day2/src/fanxing/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day2/src/fanxing/demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day2/src/fanxing/demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day2/src/fanxing/generic1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day2/src/fanxing/generic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day2/src/fanxing/generic3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day2/src/fanxing/generic3class1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day2/src/fanxing/generic3class2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day2/src/zengqiangfor/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doudizhu/doudizhu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doudizhu/src/fapai/Cards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-day2/src/Collection/normal.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-day2/src/Collection/normal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +71,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.normal">
-    <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringBuilder.demo2" />
-      <module name="api-day1" />
+  <component name="RunManager" selected="Application.Cards">
+    <configuration name="Cards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fapai.Cards" />
+      <module name="doudizhu" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stringBuilder.*" />
+          <option name="PATTERN" value="fapai.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +85,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="format" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="date.format" />
-      <module name="api-day1" />
+    <configuration name="demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fanxing.demo4" />
+      <module name="api-day2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="date.*" />
+          <option name="PATTERN" value="fanxing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fanxing.demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fanxing.demo1" />
+      <module name="api-day2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fanxing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fanxing.demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fanxing.demo3" />
+      <module name="api-day2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fanxing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,39 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringBuilder.demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringBuilder.demo1" />
-      <module name="api-day1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stringBuilder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="system.demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="system.demo1" />
-      <module name="api-day1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="system.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cards" />
+        <item itemvalue="Application.fanxing.demo3" />
+        <item itemvalue="Application.fanxing.demo1" />
+        <item itemvalue="Application.demo4" />
         <item itemvalue="Application.normal" />
-        <item itemvalue="Application.demo2" />
-        <item itemvalue="Application.system.demo1" />
-        <item itemvalue="Application.stringBuilder.demo1" />
-        <item itemvalue="Application.format" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +192,8 @@
       <workItem from="1652165855578" duration="539000" />
       <workItem from="1652329990765" duration="31000" />
       <workItem from="1652330031379" duration="32000" />
-      <workItem from="1652337767099" duration="4285000" />
+      <workItem from="1652337767099" duration="10648000" />
+      <workItem from="1652407018329" duration="13327000" />
     </task>
     <task id="LOCAL-00001" summary="note">
       <created>1650723177016</created>
@@ -480,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652338934914</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="note">
+      <created>1652353964925</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1652353964925</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -518,5 +541,10 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyJava$fanxing_demo.ic" NAME="fanxing.demo Coverage Results" MODIFIED="1652363366261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>fanxing.*</FILTER>
+    </SUITE>
   </component>
 </project>
