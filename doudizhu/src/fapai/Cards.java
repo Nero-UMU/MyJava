@@ -3,6 +3,7 @@ package fapai;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
+import java.util.Comparator;
 
 public class Cards {
     public static void main(String[] args) {
@@ -36,6 +37,16 @@ public class Cards {
                 player3.add(pocker.get(i));
             }
         }
+
+        System.out.println(player1);
+        System.out.println(player2);
+        System.out.println(player3);
+        System.out.println(dipai);
+
+        Collections.sort(player1);
+        Collections.sort(player1);
+        Collections.sort(player1);
+        Collections.sort(dipai);
 
         System.out.println(player1);
         System.out.println(player2);
