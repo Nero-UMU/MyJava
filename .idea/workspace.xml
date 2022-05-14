@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/api-day2/src/set/hashset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day2/src/sort/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day2/src/sort/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day3/api-day3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day3/src/hashMap/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day3/src/hashMap/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day3/src/hashMap/linkHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day3/src/map/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day3/src/mapTest/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,20 +63,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.demo">
-    <configuration name="Cards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fapai.Cards" />
-      <module name="doudizhu" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fapai.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.mapTest.demo">
     <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.demo" />
       <module name="api-day2" />
@@ -86,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fanxing.demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fanxing.demo1" />
-      <module name="api-day2" />
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.demo1" />
+      <module name="api-day3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fanxing.*" />
+          <option name="PATTERN" value="map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fanxing.demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fanxing.demo3" />
-      <module name="api-day2" />
+    <configuration name="hashMap.demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashMap.demo1" />
+      <module name="api-day3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fanxing.*" />
+          <option name="PATTERN" value="hashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +103,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hashset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.hashset" />
-      <module name="api-day2" />
+    <configuration name="linkHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashMap.linkHashMap" />
+      <module name="api-day3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.*" />
+          <option name="PATTERN" value="hashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mapTest.demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapTest.demo" />
+      <module name="api-day3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mapTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mapTest.demo" />
+        <item itemvalue="Application.linkHashMap" />
+        <item itemvalue="Application.hashMap.demo1" />
+        <item itemvalue="Application.demo1" />
         <item itemvalue="Application.demo" />
-        <item itemvalue="Application.hashset" />
-        <item itemvalue="Application.Cards" />
-        <item itemvalue="Application.fanxing.demo3" />
-        <item itemvalue="Application.fanxing.demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +187,9 @@
       <workItem from="1652337767099" duration="10648000" />
       <workItem from="1652407018329" duration="13450000" />
       <workItem from="1652440755173" duration="5194000" />
+      <workItem from="1652504982880" duration="25000" />
+      <workItem from="1652505277014" duration="6000" />
+      <workItem from="1652513546908" duration="7410000" />
     </task>
     <task id="LOCAL-00001" summary="note">
       <created>1650723177016</created>
@@ -499,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652440694065</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="note">
+      <created>1652504997779</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1652504997779</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
