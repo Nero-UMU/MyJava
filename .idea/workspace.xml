@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/api-day2/src/diedai/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day2/src/fanxing/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day2/src/fanxing/demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day2/src/fanxing/demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day2/src/fanxing/demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day2/src/fanxing/generic1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day2/src/fanxing/generic2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day2/src/fanxing/generic3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day2/src/fanxing/generic3class1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day2/src/fanxing/generic3class2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day2/src/zengqiangfor/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu/doudizhu.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu/src/fapai/Cards.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day2/src/set/hashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day2/src/sort/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day2/src/sort/demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-day2/src/Collection/normal.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-day2/src/Collection/normal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +59,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Cards">
+  <component name="RunManager" selected="Application.demo">
     <configuration name="Cards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fapai.Cards" />
       <module name="doudizhu" />
@@ -85,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fanxing.demo4" />
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.demo" />
       <module name="api-day2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fanxing.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="normal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.normal" />
+    <configuration name="hashset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.hashset" />
       <module name="api-day2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collection.*" />
+          <option name="PATTERN" value="set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.hashset" />
         <item itemvalue="Application.Cards" />
         <item itemvalue="Application.fanxing.demo3" />
         <item itemvalue="Application.fanxing.demo1" />
-        <item itemvalue="Application.demo4" />
-        <item itemvalue="Application.normal" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +181,8 @@
       <workItem from="1652329990765" duration="31000" />
       <workItem from="1652330031379" duration="32000" />
       <workItem from="1652337767099" duration="10648000" />
-      <workItem from="1652407018329" duration="13327000" />
+      <workItem from="1652407018329" duration="13450000" />
+      <workItem from="1652440755173" duration="5194000" />
     </task>
     <task id="LOCAL-00001" summary="note">
       <created>1650723177016</created>
@@ -503,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652353964925</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="note">
+      <created>1652440694065</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1652440694065</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
