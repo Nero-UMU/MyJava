@@ -40,6 +40,6 @@ public class Person implements Comparable<Person> {
     @Override
     public int compareTo(Person person) {
         //自定义比较规则
-        return this.getAge()-person.getAge();//安装年龄升序排序
+        return this.getAge()-person.getAge();//按照年龄升序排序
     }
 }

@@ -36,8 +36,8 @@ public class demo {
         System.out.println(son);
         Collections.sort(son, new Comparator<Person>() { //重写了Comparator接口的compare方法
             @Override
-            public int compare(Person person, Person t1) {
-                return person.getAge() - t1.getAge();
+            public int compare(Person t1, Person t2) {
+                return t1.getAge() - t2.getAge();
             }
         });
         System.out.println(son);
