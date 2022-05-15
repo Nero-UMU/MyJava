@@ -23,7 +23,7 @@ public class demo1 {
 
         map1.put("b","2");
         map1.put("c","4");
-        map1.put("d","6");
+        map1.put("d","5");
         System.out.println(map1);
 
         //remove方法移除元素

@@ -57,7 +57,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Cards">
+  <component name="RunManager" selected="Application.demo1">
     <configuration name="Cards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fapai.Cards" />
       <module name="doudizhu" />
@@ -125,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Cards" />
+        <item itemvalue="Application.demo1" />
         <item itemvalue="Application.mapTest.demo" />
+        <item itemvalue="Application.Cards" />
         <item itemvalue="Application.linkHashMap" />
         <item itemvalue="Application.hashMap.demo1" />
-        <item itemvalue="Application.demo1" />
       </list>
     </recent_temporary>
   </component>
