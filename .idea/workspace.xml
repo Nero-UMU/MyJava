@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/api-day4/api-day4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day4/src/yichang/demoThrow1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day4/src/yichang/demoThrow2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day4/src/yichang/finallyCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day4/src/yichang/throwGuanjianzi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day4/src/yichang/tryCatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day4/src/money/checkAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day4/src/money/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day4/src/money/myException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,13 +60,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.finallyCode">
-    <configuration name="demoThrow1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yichang.demoThrow1" />
+  <component name="RunManager" selected="Application.demo">
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="money.demo" />
       <module name="api-day4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="yichang.*" />
+          <option name="PATTERN" value="money.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo" />
         <item itemvalue="Application.finallyCode" />
         <item itemvalue="Application.tryCatch" />
         <item itemvalue="Application.throwGuanjianzi" />
         <item itemvalue="Application.demoThrow2" />
-        <item itemvalue="Application.demoThrow1" />
       </list>
     </recent_temporary>
   </component>
@@ -206,14 +202,7 @@
       <workItem from="1652770239209" duration="298000" />
       <workItem from="1652771297912" duration="34000" />
       <workItem from="1652771342263" duration="48000" />
-      <workItem from="1652771421477" duration="4658000" />
-    </task>
-    <task id="LOCAL-00005" summary="note">
-      <created>1650800326768</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1650800326768</updated>
+      <workItem from="1652771421477" duration="10897000" />
     </task>
     <task id="LOCAL-00006" summary="note">
       <created>1650893983085</created>
@@ -551,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652770392534</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="note">
+      <created>1652778666109</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1652778666110</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -582,6 +578,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="money.myException" package="money" />
+          <option name="timeStamp" value="2" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
