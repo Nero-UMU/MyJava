@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
+      <change afterPath="$PROJECT_DIR$/api-day4/api-day4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day4/src/yichang/demoThrow1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day4/src/yichang/demoThrow2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day4/src/yichang/finallyCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day4/src/yichang/throwGuanjianzi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day4/src/yichang/tryCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,13 +64,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.mapTest.demo">
-    <configuration name="Cards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fapai.Cards" />
-      <module name="doudizhu" />
+  <component name="RunManager" selected="Application.finallyCode">
+    <configuration name="demoThrow1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yichang.demoThrow1" />
+      <module name="api-day4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fapai.*" />
+          <option name="PATTERN" value="yichang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.demo" />
-      <module name="api-day2" />
+    <configuration name="demoThrow2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yichang.demoThrow2" />
+      <module name="api-day4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="yichang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="map.demo1" />
-      <module name="api-day3" />
+    <configuration name="finallyCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yichang.finallyCode" />
+      <module name="api-day4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="map.*" />
+          <option name="PATTERN" value="yichang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="linkHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashMap.linkHashMap" />
-      <module name="api-day3" />
+    <configuration name="throwGuanjianzi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yichang.throwGuanjianzi" />
+      <module name="api-day4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashMap.*" />
+          <option name="PATTERN" value="yichang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mapTest.demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mapTest.demo" />
-      <module name="api-day3" />
+    <configuration name="tryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yichang.tryCatch" />
+      <module name="api-day4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mapTest.*" />
+          <option name="PATTERN" value="yichang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.mapTest.demo" />
-        <item itemvalue="Application.demo" />
-        <item itemvalue="Application.demo1" />
-        <item itemvalue="Application.Cards" />
-        <item itemvalue="Application.linkHashMap" />
+        <item itemvalue="Application.finallyCode" />
+        <item itemvalue="Application.tryCatch" />
+        <item itemvalue="Application.throwGuanjianzi" />
+        <item itemvalue="Application.demoThrow2" />
+        <item itemvalue="Application.demoThrow1" />
       </list>
     </recent_temporary>
   </component>
@@ -196,14 +203,10 @@
       <workItem from="1652767342895" duration="1124000" />
       <workItem from="1652770137428" duration="20000" />
       <workItem from="1652770166364" duration="45000" />
-      <workItem from="1652770239209" duration="82000" />
-    </task>
-    <task id="LOCAL-00004" summary="note">
-      <created>1650799829185</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1650799829185</updated>
+      <workItem from="1652770239209" duration="298000" />
+      <workItem from="1652771297912" duration="34000" />
+      <workItem from="1652771342263" duration="48000" />
+      <workItem from="1652771421477" duration="4658000" />
     </task>
     <task id="LOCAL-00005" summary="note">
       <created>1650800326768</created>
@@ -541,7 +544,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652704099507</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="note">
+      <created>1652770392533</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1652770392534</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
