@@ -22,7 +22,7 @@ public class tryCatch {
             System.out.println("================");
             System.out.println(e.getMessage());
             System.out.println("================");
-//            e.printStackTrace();
+            e.printStackTrace();
         }
     }
 
