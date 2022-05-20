@@ -1,4 +1,4 @@
-package thread;
+package thread1;
 
 /*
 获取进程方法调用getName()方法，返回字符串

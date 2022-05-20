@@ -1,4 +1,4 @@
-package thread;
+package thread1;
 
 public class Person {
     private String name;

@@ -1,4 +1,4 @@
-package thread;
+package thread1;
 
 /*
 创建多线程方法一：创建Thread类的子类

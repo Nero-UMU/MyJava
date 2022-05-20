@@ -1,4 +1,4 @@
-package thread;
+package thread1;
 
 public class demo1 {
     //单线程程序

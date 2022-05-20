@@ -1,4 +1,4 @@
-package thread;
+package thread1;
 
 /*
 两种命名进程方法
