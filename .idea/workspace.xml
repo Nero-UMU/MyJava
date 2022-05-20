@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/api-day5/src/sleep/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day5/src/thread/demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day5/src/thread/demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day5/src/thread/setName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-day5/src/thread/myThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-day5/src/thread/myThread.java" afterDir="false" />
-    </list>
+    <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,14 +203,7 @@
       <workItem from="1652879004042" duration="2845000" />
       <workItem from="1652889995898" duration="50000" />
       <workItem from="1652956459100" duration="402000" />
-      <workItem from="1652968999860" duration="2461000" />
-    </task>
-    <task id="LOCAL-00008" summary="note">
-      <created>1650976293935</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1650976293935</updated>
+      <workItem from="1652968999860" duration="2524000" />
     </task>
     <task id="LOCAL-00009" summary="note">
       <created>1650979329334</created>
@@ -555,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652890031258</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="note">
+      <created>1652971513385</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1652971513386</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
