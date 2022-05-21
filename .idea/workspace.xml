@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/api-day5/src/lock/RunnableImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day5/src/lock/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day5/src/tongbudaimakuai/RunnableImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day5/src/tongbudaimakuai/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day5/src/tongbufangfa/RunnableImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day5/src/tongbufangfa/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day5/src/WaitAndNotify/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day5/src/WaitAndNotify/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baozi/baozi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baozi/src/XiaoFeiShengChan/BaoZi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baozi/src/XiaoFeiShengChan/BaoZiPu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baozi/src/XiaoFeiShengChan/ChiHuo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baozi/src/XiaoFeiShengChan/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,13 +72,39 @@
       <recent name="$PROJECT_DIR$/api-day5/src/tongbu" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lock.demo1">
-    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="security.demo1" />
+  <component name="RunManager" selected="Application.XiaoFeiShengChan.demo">
+    <configuration name="XiaoFeiShengChan.demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XiaoFeiShengChan.demo" />
+      <module name="baozi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="XiaoFeiShengChan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WaitAndNotify.demo" />
       <module name="api-day5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="security.*" />
+          <option name="PATTERN" value="WaitAndNotify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WaitAndNotify.demo2" />
+      <module name="api-day5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WaitAndNotify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,38 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nimingneibulei" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread2.nimingneibulei" />
+    <configuration name="tingzhidengdai.demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tingzhidengdai.demo" />
       <module name="api-day5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tongbudaimakuai.demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tongbudaimakuai.demo1" />
-      <module name="api-day5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tongbudaimakuai.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tongbufangfa.demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tongbufangfa.demo1" />
-      <module name="api-day5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tongbufangfa.*" />
+          <option name="PATTERN" value="tingzhidengdai.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.XiaoFeiShengChan.demo" />
+        <item itemvalue="Application.demo2" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.tingzhidengdai.demo" />
         <item itemvalue="Application.lock.demo1" />
-        <item itemvalue="Application.tongbufangfa.demo1" />
-        <item itemvalue="Application.tongbudaimakuai.demo1" />
-        <item itemvalue="Application.demo1" />
-        <item itemvalue="Application.nimingneibulei" />
       </list>
     </recent_temporary>
   </component>
@@ -223,14 +225,7 @@
       <workItem from="1653045592941" duration="3131000" />
       <workItem from="1653054648152" duration="617000" />
       <workItem from="1653066119284" duration="30000" />
-      <workItem from="1653112066626" duration="3449000" />
-    </task>
-    <task id="LOCAL-00012" summary="note">
-      <created>1651154099029</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1651154099029</updated>
+      <workItem from="1653112066626" duration="14686000" />
     </task>
     <task id="LOCAL-00013" summary="note">
       <created>1651286647087</created>
@@ -568,7 +563,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653066138695</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="note">
+      <created>1653120069656</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1653120069656</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -579,7 +581,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
