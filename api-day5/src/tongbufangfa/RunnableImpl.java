@@ -22,7 +22,7 @@ public class RunnableImpl implements Runnable{
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }
-            System.out.println(Thread.currentThread().getName()+"正在卖"+ticket+"张票");
+            System.out.println(Thread.currentThread()+"正在卖"+ticket+"张票");
             ticket--;
         }
     }
