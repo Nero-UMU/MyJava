@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
+      <change afterPath="$PROJECT_DIR$/api-day5/src/lambda/demo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,7 @@
       <recent name="$PROJECT_DIR$/api-day5/src/tongbu" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.demo">
+  <component name="RunManager" selected="Application.lambda.demo1">
     <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="XiaoFeiShengChan.demo" />
       <module name="baozi" />
@@ -91,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread1.demo3" />
+    <configuration name="lambda.demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.demo1" />
       <module name="api-day5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread1.*" />
+          <option name="PATTERN" value="lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lambda.demo1" />
         <item itemvalue="Application.demo" />
         <item itemvalue="Application.lock.demo1" />
         <item itemvalue="Application.tongbufangfa.demo1" />
         <item itemvalue="Application.demo1" />
-        <item itemvalue="Application.demo3" />
       </list>
     </recent_temporary>
   </component>
@@ -219,14 +220,7 @@
       <workItem from="1653066119284" duration="30000" />
       <workItem from="1653112066626" duration="14686000" />
       <workItem from="1653141530901" duration="1208000" />
-      <workItem from="1653194245703" duration="9839000" />
-    </task>
-    <task id="LOCAL-00016" summary="note">
-      <created>1651498674250</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1651498674250</updated>
+      <workItem from="1653194245703" duration="13797000" />
     </task>
     <task id="LOCAL-00017" summary="note">
       <created>1651502280873</created>
@@ -564,7 +558,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653204909000</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="note">
+      <created>1653221563075</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1653221563075</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
