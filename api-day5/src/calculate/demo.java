@@ -9,9 +9,7 @@ public class demo {
             }
         });
 
-        invokeCalc(20, 20 , (int a, int b)->{
-            return a + b;
-        });
+        invokeCalc(20,20, (a, b)->a+b);
     }
 
     public static void invokeCalc(int a, int b, calc c){

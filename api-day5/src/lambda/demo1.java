@@ -11,8 +11,13 @@ Lambda表达式
 
 public class demo1 {
     public static void main(String[] args) {
-        new Thread(()->{
-            System.out.println(Thread.currentThread().getName() + "新线程创建了");
+        new Thread(()-> System.out.println(Thread.currentThread().getName() + "新线程创建了")).start();
+
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                System.out.println(Thread.currentThread().getName() + "新线程创建了");
+            }
         }).start();
     }
 }
