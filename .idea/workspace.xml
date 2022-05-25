@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/api-day6/api-day6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day6/src/file/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day6/src/file/demo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day6/src/file/demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day6/src/file/justTest.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,13 +66,13 @@
       <recent name="$PROJECT_DIR$/api-day5/src/tongbu" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.file.demo2">
-    <configuration name="calculate.demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calculate.demo" />
-      <module name="api-day5" />
+  <component name="RunManager" selected="Application.demo3">
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file.demo1" />
+      <module name="api-day6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="calculate.*" />
+          <option name="PATTERN" value="file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="file.demo1" />
+    <configuration name="demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file.demo3" />
       <module name="api-day6" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo3" />
         <item itemvalue="Application.file.demo2" />
         <item itemvalue="Application.demo1" />
         <item itemvalue="Application.demoCook" />
         <item itemvalue="Application.lambda.demo1" />
-        <item itemvalue="Application.calculate.demo" />
       </list>
     </recent_temporary>
   </component>
@@ -227,14 +225,7 @@
       <workItem from="1653237432474" duration="94000" />
       <workItem from="1653307046963" duration="8822000" />
       <workItem from="1653322686332" duration="25000" />
-      <workItem from="1653481410778" duration="2980000" />
-    </task>
-    <task id="LOCAL-00021" summary="note">
-      <created>1651585660428</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1651585660428</updated>
+      <workItem from="1653481410778" duration="3984000" />
     </task>
     <task id="LOCAL-00022" summary="note">
       <created>1651587083794</created>
@@ -572,7 +563,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653481419834</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="note">
+      <created>1653487268340</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1653487268340</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
