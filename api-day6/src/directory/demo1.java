@@ -19,7 +19,7 @@ public class demo1 {
 
     public static void method2(){
         File f1 = new File(".");
-        File[] arr = f1.listFiles();
+        File[] arr = f1.listFiles(); //返回File对象数组
         assert arr!= null;
         for (File f : arr){
             System.out.println(f);
