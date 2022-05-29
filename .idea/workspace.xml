@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/api-day6/src/inputStream/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day6/src/inputStream/demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day6/src/outputStream/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day6/src/outputStream/demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day6/src/outputStream/demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day6/src/inputStream/copyPic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yes.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-day6/src/directory/demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-day6/src/directory/demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/justTest.md" beforeDir="false" afterPath="$PROJECT_DIR$/justTest.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-day6/src/inputStream/demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-day6/src/inputStream/demo2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +70,20 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.inputStream.demo2">
+  <component name="RunManager" selected="Application.copyPic">
+    <configuration name="copyPic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inputStream.copyPic" />
+      <module name="api-day6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inputStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inputStream.demo1" />
       <module name="api-day6" />
@@ -114,19 +123,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="outputStream.demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="outputStream.demo1" />
-      <module name="api-day6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="outputStream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="outputStream.demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="outputStream.demo3" />
       <module name="api-day6" />
@@ -142,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.copyPic" />
         <item itemvalue="Application.inputStream.demo2" />
         <item itemvalue="Application.demo1" />
         <item itemvalue="Application.outputStream.demo3" />
         <item itemvalue="Application.demo2" />
-        <item itemvalue="Application.outputStream.demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -238,14 +234,7 @@
       <workItem from="1653651532193" duration="4964000" />
       <workItem from="1653667707834" duration="599000" />
       <workItem from="1653807554666" duration="19000" />
-      <workItem from="1653827477963" duration="5830000" />
-    </task>
-    <task id="LOCAL-00028" summary="note">
-      <created>1651756819639</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1651756819639</updated>
+      <workItem from="1653827477963" duration="7079000" />
     </task>
     <task id="LOCAL-00029" summary="note">
       <created>1651759591723</created>
@@ -583,7 +572,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653807564449</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="note">
+      <created>1653833965234</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1653833965235</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
