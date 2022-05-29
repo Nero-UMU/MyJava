@@ -13,7 +13,6 @@ public class copyPic {
         while ((len = fis.read(bytes)) != -1){
             fos.write(bytes);
         }
-
         fis.close();
         fos.close();
     }
