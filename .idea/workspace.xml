@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note" />
+    <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-day8/src/functionalInterface/supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-day8/src/functionalInterface/supplier.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +71,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BS.TCPServer">
+  <component name="RunManager" selected="Application.supplier">
     <configuration name="BS.TCPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BS.TCPServer" />
       <module name="api-day7" />
@@ -95,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TCPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="socket.TCPServer" />
-      <module name="api-day7" />
+    <configuration name="supplier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterface.supplier" />
+      <module name="api-day8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="socket.*" />
+          <option name="PATTERN" value="functionalInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.supplier" />
         <item itemvalue="Application.BS.TCPServer" />
         <item itemvalue="Application.tcpClient" />
         <item itemvalue="Application.tcpServer" />
         <item itemvalue="Application.TCPClient" />
-        <item itemvalue="Application.TCPServer" />
       </list>
     </recent_temporary>
   </component>
@@ -250,13 +253,9 @@
       <workItem from="1654431833468" duration="565000" />
       <workItem from="1654514148865" duration="3760000" />
       <workItem from="1654617723391" duration="23000" />
-    </task>
-    <task id="LOCAL-00041" summary="note">
-      <created>1652101819814</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1652101819814</updated>
+      <workItem from="1654696503580" duration="127000" />
+      <workItem from="1654696640218" duration="131000" />
+      <workItem from="1654696839214" duration="1570000" />
     </task>
     <task id="LOCAL-00042" summary="note">
       <created>1652165871814</created>
@@ -594,7 +593,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654617735718</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="note">
+      <created>1654696512577</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1654696512578</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
