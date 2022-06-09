@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
+      <change afterPath="$PROJECT_DIR$/api-day8/src/functionalInterface/andThen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day8/src/functionalInterface/consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day8/src/functionalInterface/consumer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day8/src/functionalInterface/predicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day8/src/functionalInterface/predicate1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day8/src/functionalInterface/predicate2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api-day8/src/functionalInterface/supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-day8/src/functionalInterface/supplier.java" afterDir="false" />
     </list>
@@ -71,35 +77,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.supplier">
-    <configuration name="BS.TCPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BS.TCPServer" />
-      <module name="api-day7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TCPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="socket.TCPClient" />
-      <module name="api-day7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="socket.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="supplier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalInterface.supplier" />
+  <component name="RunManager" selected="Application.predicate2">
+    <configuration name="andThen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterface.andThen" />
       <module name="api-day8" />
       <extension name="coverage">
         <pattern>
@@ -111,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tcpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fileTrance.tcpClient" />
-      <module name="api-day7" />
+    <configuration name="consumer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterface.consumer1" />
+      <module name="api-day8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fileTrance.*" />
+          <option name="PATTERN" value="functionalInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +104,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tcpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fileTrance.tcpServer" />
-      <module name="api-day7" />
+    <configuration name="functionalInterface.predicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterface.predicate" />
+      <module name="api-day8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fileTrance.*" />
+          <option name="PATTERN" value="functionalInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="predicate1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterface.predicate1" />
+      <module name="api-day8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="predicate2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterface.predicate2" />
+      <module name="api-day8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.supplier" />
-        <item itemvalue="Application.BS.TCPServer" />
-        <item itemvalue="Application.tcpClient" />
-        <item itemvalue="Application.tcpServer" />
-        <item itemvalue="Application.TCPClient" />
+        <item itemvalue="Application.predicate2" />
+        <item itemvalue="Application.predicate1" />
+        <item itemvalue="Application.functionalInterface.predicate" />
+        <item itemvalue="Application.consumer1" />
+        <item itemvalue="Application.functionalInterface.andThen" />
       </list>
     </recent_temporary>
   </component>
@@ -255,14 +261,8 @@
       <workItem from="1654617723391" duration="23000" />
       <workItem from="1654696503580" duration="127000" />
       <workItem from="1654696640218" duration="131000" />
-      <workItem from="1654696839214" duration="1570000" />
-    </task>
-    <task id="LOCAL-00042" summary="note">
-      <created>1652165871814</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1652165871814</updated>
+      <workItem from="1654696839214" duration="2065000" />
+      <workItem from="1654777238169" duration="3827000" />
     </task>
     <task id="LOCAL-00043" summary="note">
       <created>1652338934914</created>
@@ -600,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654696512578</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="note">
+      <created>1654698585394</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1654698585395</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -9,7 +9,7 @@ public class supplier {
         });
         System.out.println(str);
     }
-    public static String getString(Supplier<String> sup){
+    public static String getString(Supplier<String> sup){ //supplier方法用来生产一个数据
         return sup.get();
     }
 }
