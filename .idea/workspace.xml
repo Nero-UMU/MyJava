@@ -71,13 +71,13 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.demo1">
-    <configuration name="consumer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalInterface.consumer1" />
+  <component name="RunManager" selected="Application.demo2">
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamLiu.demo1" />
       <module name="api-day8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functionalInterface.*" />
+          <option name="PATTERN" value="streamLiu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streamLiu.demo1" />
+    <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamLiu.demo2" />
       <module name="api-day8" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo2" />
         <item itemvalue="Application.demo1" />
         <item itemvalue="Application.function2" />
         <item itemvalue="Application.function1" />
         <item itemvalue="Application.predicate5" />
-        <item itemvalue="Application.consumer1" />
       </list>
     </recent_temporary>
   </component>

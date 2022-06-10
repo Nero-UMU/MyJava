@@ -5,7 +5,7 @@ import java.util.stream.Stream;
 
 public class demo2 {
     public static void main(String[] args) {
-        //创建stream流的方法
+        //创建stream流的方式
         List<String> list = new ArrayList<>();
         Stream<String> stream1 = list.stream();
 
