@@ -8,8 +8,8 @@ public class consumer {
     }
 
     public static void main(String[] args) {
-        method("fuck me",(String name)->{
-            System.out.println(name);
+        method("fuck me",(String str)->{
+            System.out.println("I say: "+ str);
         });
     }
 }

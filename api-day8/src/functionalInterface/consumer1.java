@@ -5,7 +5,9 @@ import java.util.function.Consumer;
 public class consumer1 {
     public static void method(String[] arr, Consumer<String> con1, Consumer<String> con2){
         for (String message : arr) {
-            con1.andThen(con2).accept(message);
+//            con1.andThen(con2).accept(message);
+            con1.accept(message);
+            con2.accept(message);
         }
     }
 
