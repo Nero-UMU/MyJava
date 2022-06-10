@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/api-day8/src/functionalInterface/predicate3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day8/src/functionalInterface/predicate4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day8/src/functionalInterface/function1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day8/src/functionalInterface/function2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,9 +72,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.predicate4">
-    <configuration name="functionalInterface.predicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalInterface.predicate" />
+  <component name="RunManager" selected="Application.function2">
+    <configuration name="function1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterface.function1" />
       <module name="api-day8" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="predicate1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalInterface.predicate1" />
+    <configuration name="function2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterface.function2" />
       <module name="api-day8" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.function2" />
+        <item itemvalue="Application.function1" />
         <item itemvalue="Application.predicate4" />
         <item itemvalue="Application.predicate3" />
         <item itemvalue="Application.predicate2" />
-        <item itemvalue="Application.predicate1" />
-        <item itemvalue="Application.functionalInterface.predicate" />
       </list>
     </recent_temporary>
   </component>
@@ -257,14 +257,8 @@
       <workItem from="1654696503580" duration="127000" />
       <workItem from="1654696640218" duration="131000" />
       <workItem from="1654696839214" duration="2065000" />
-      <workItem from="1654777238169" duration="6123000" />
-    </task>
-    <task id="LOCAL-00044" summary="note">
-      <created>1652353964925</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1652353964925</updated>
+      <workItem from="1654777238169" duration="7906000" />
+      <workItem from="1654793875167" duration="616000" />
     </task>
     <task id="LOCAL-00045" summary="note">
       <created>1652440694065</created>
@@ -602,7 +596,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654781884932</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="note">
+      <created>1654784352992</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1654784352992</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
