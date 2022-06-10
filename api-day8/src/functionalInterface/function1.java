@@ -10,7 +10,7 @@ public class function1 {
     public static void main(String[] args) {
         String str = "123456";
         int result = method(str, (s)->{
-            return Integer.parseInt(s);
+            return Integer.parseInt(s + 100);
         });
         System.out.println(result);
     }

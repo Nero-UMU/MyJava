@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
+      <change afterPath="$PROJECT_DIR$/api-day8/src/streamLiu/demo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-day8/src/functionalInterface/consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-day8/src/functionalInterface/consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-day8/src/functionalInterface/consumer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-day8/src/functionalInterface/consumer1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-day8/src/functionalInterface/function1.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-day8/src/functionalInterface/function1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,9 +72,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.consumer1">
-    <configuration name="consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalInterface.consumer" />
+  <component name="RunManager" selected="Application.demo1">
+    <configuration name="consumer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterface.consumer1" />
       <module name="api-day8" />
       <extension name="coverage">
         <pattern>
@@ -86,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="consumer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalInterface.consumer1" />
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamLiu.demo1" />
       <module name="api-day8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functionalInterface.*" />
+          <option name="PATTERN" value="streamLiu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="predicate4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalInterface.predicate4" />
+    <configuration name="predicate5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterface.predicate5" />
       <module name="api-day8" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.consumer1" />
-        <item itemvalue="Application.consumer" />
+        <item itemvalue="Application.demo1" />
         <item itemvalue="Application.function2" />
         <item itemvalue="Application.function1" />
-        <item itemvalue="Application.predicate4" />
+        <item itemvalue="Application.predicate5" />
+        <item itemvalue="Application.consumer1" />
       </list>
     </recent_temporary>
   </component>
@@ -259,14 +259,7 @@
       <workItem from="1654696839214" duration="2065000" />
       <workItem from="1654777238169" duration="7906000" />
       <workItem from="1654793875167" duration="616000" />
-      <workItem from="1654861974242" duration="1968000" />
-    </task>
-    <task id="LOCAL-00046" summary="note">
-      <created>1652504997779</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1652504997779</updated>
+      <workItem from="1654861974242" duration="6412000" />
     </task>
     <task id="LOCAL-00047" summary="note">
       <created>1652528502384</created>
@@ -604,7 +597,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654861986875</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="note">
+      <created>1654863997553</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1654863997553</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
