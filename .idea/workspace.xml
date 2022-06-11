@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/api-day8/src/streamLiu/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day8/src/streamLiu/filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day8/src/streamLiu/forEach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +72,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.demo2">
+  <component name="RunManager" selected="Application.filter">
     <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="streamLiu.demo1" />
       <module name="api-day8" />
@@ -98,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="function1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalInterface.function1" />
+    <configuration name="filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamLiu.filter" />
       <module name="api-day8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functionalInterface.*" />
+          <option name="PATTERN" value="streamLiu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="predicate5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalInterface.predicate5" />
+    <configuration name="streamLiu.forEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamLiu.forEach" />
       <module name="api-day8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functionalInterface.*" />
+          <option name="PATTERN" value="streamLiu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.demo2" />
-        <item itemvalue="Application.demo1" />
+        <item itemvalue="Application.filter" />
+        <item itemvalue="Application.streamLiu.forEach" />
+        <item itemvalue="Application.streamLiu.demo2" />
+        <item itemvalue="Application.streamLiu.demo1" />
         <item itemvalue="Application.function2" />
-        <item itemvalue="Application.function1" />
-        <item itemvalue="Application.predicate5" />
       </list>
     </recent_temporary>
   </component>
@@ -259,20 +260,8 @@
       <workItem from="1654777238169" duration="7906000" />
       <workItem from="1654793875167" duration="616000" />
       <workItem from="1654861974242" duration="7290000" />
-    </task>
-    <task id="LOCAL-00048" summary="note">
-      <created>1652583136504</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1652583136504</updated>
-    </task>
-    <task id="LOCAL-00049" summary="note">
-      <created>1652602512594</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1652602512594</updated>
+      <workItem from="1654876623029" duration="58000" />
+      <workItem from="1654948749671" duration="2993000" />
     </task>
     <task id="LOCAL-00050" summary="note">
       <created>1652623517438</created>
@@ -603,7 +592,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654871233338</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="note">
+      <created>1654876635947</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1654876635948</updated>
+    </task>
+    <task id="LOCAL-00098" summary="note">
+      <created>1654876665163</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1654876665163</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
