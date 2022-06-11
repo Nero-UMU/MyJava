@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/api-day8/src/streamLiu/filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day8/src/streamLiu/forEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day8/src/streamLiu/map.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +71,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.filter">
+  <component name="RunManager" selected="Application.map">
     <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="streamLiu.demo1" />
       <module name="api-day8" />
@@ -112,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="function2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalInterface.function2" />
+    <configuration name="map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamLiu.map" />
       <module name="api-day8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functionalInterface.*" />
+          <option name="PATTERN" value="streamLiu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.map" />
         <item itemvalue="Application.filter" />
         <item itemvalue="Application.streamLiu.forEach" />
         <item itemvalue="Application.streamLiu.demo2" />
         <item itemvalue="Application.streamLiu.demo1" />
-        <item itemvalue="Application.function2" />
       </list>
     </recent_temporary>
   </component>
@@ -261,14 +260,7 @@
       <workItem from="1654793875167" duration="616000" />
       <workItem from="1654861974242" duration="7290000" />
       <workItem from="1654876623029" duration="58000" />
-      <workItem from="1654948749671" duration="2993000" />
-    </task>
-    <task id="LOCAL-00050" summary="note">
-      <created>1652623517438</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1652623517438</updated>
+      <workItem from="1654948749671" duration="3919000" />
     </task>
     <task id="LOCAL-00051" summary="note">
       <created>1652674883405</created>
@@ -606,7 +598,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654876665163</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="note">
+      <created>1654953779854</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1654953779854</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
