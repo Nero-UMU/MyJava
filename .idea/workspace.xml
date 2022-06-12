@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note" />
+    <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
+      <change afterPath="$PROJECT_DIR$/api-day8/src/yinyong/PrintStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-day8/src/yinyong/demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,9 +18,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
-        <option value="Interface" />
         <option value="AnnotationType" />
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -68,7 +72,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.concat">
+  <component name="RunManager" selected="Application.demo1">
     <configuration name="concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="streamLiu.concat" />
       <module name="api-day8" />
@@ -95,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="limit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streamLiu.limit" />
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yinyong.demo1" />
       <module name="api-day8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streamLiu.*" />
+          <option name="PATTERN" value="yinyong.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streamLiu.map" />
+    <configuration name="limit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamLiu.limit" />
       <module name="api-day8" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo1" />
         <item itemvalue="Application.concat" />
         <item itemvalue="Application.skip" />
         <item itemvalue="Application.limit" />
         <item itemvalue="Application.count" />
-        <item itemvalue="Application.map" />
       </list>
     </recent_temporary>
   </component>
@@ -258,13 +262,7 @@
       <workItem from="1654861974242" duration="7290000" />
       <workItem from="1654876623029" duration="58000" />
       <workItem from="1654948749671" duration="5521000" />
-    </task>
-    <task id="LOCAL-00054" summary="note">
-      <created>1652778666109</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1652778666110</updated>
+      <workItem from="1655031508423" duration="3860000" />
     </task>
     <task id="LOCAL-00055" summary="note">
       <created>1652797750941</created>
@@ -602,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654958158503</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="note">
+      <created>1655031517392</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1655031517393</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
