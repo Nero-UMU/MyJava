@@ -8,6 +8,6 @@ public class limit {
         String[] arr = new String[]{"hello", "world", "cao", "wlg"};
         Stream<String> stream = Arrays.stream(arr);
         Stream<String> stream1 = stream.limit(3);
-        stream1.forEach((name)-> System.out.println(name));
+        stream1.forEach(System.out::println);
     }
 }
