@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/api-day8/src/yinyong/PrintStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-day8/src/yinyong/demo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-day8/src/yinyong/demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-day8/src/yinyong/demo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -262,14 +261,7 @@
       <workItem from="1654861974242" duration="7290000" />
       <workItem from="1654876623029" duration="58000" />
       <workItem from="1654948749671" duration="5521000" />
-      <workItem from="1655031508423" duration="3860000" />
-    </task>
-    <task id="LOCAL-00055" summary="note">
-      <created>1652797750941</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1652797750941</updated>
+      <workItem from="1655031508423" duration="5611000" />
     </task>
     <task id="LOCAL-00056" summary="note">
       <created>1652890031258</created>
@@ -607,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655031517393</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="note">
+      <created>1655038591102</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1655038591102</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
