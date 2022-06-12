@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-day8/src/yinyong/demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-day8/src/yinyong/demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-day8/src/streamLiu/forEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-day8/src/streamLiu/forEach.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.demo1">
+  <component name="RunManager" selected="Application.count">
     <configuration name="concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="streamLiu.concat" />
       <module name="api-day8" />
@@ -111,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="limit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streamLiu.limit" />
+    <configuration name="forEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamLiu.forEach" />
       <module name="api-day8" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.count" />
+        <item itemvalue="Application.forEach" />
         <item itemvalue="Application.demo1" />
         <item itemvalue="Application.concat" />
         <item itemvalue="Application.skip" />
-        <item itemvalue="Application.limit" />
-        <item itemvalue="Application.count" />
       </list>
     </recent_temporary>
   </component>
@@ -261,14 +261,7 @@
       <workItem from="1654861974242" duration="7290000" />
       <workItem from="1654876623029" duration="58000" />
       <workItem from="1654948749671" duration="5521000" />
-      <workItem from="1655031508423" duration="5611000" />
-    </task>
-    <task id="LOCAL-00056" summary="note">
-      <created>1652890031258</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1652890031258</updated>
+      <workItem from="1655031508423" duration="6699000" />
     </task>
     <task id="LOCAL-00057" summary="note">
       <created>1652971513385</created>
@@ -606,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655038591102</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="note">
+      <created>1655042017525</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1655042017525</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
