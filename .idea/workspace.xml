@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-day8/src/streamLiu/concat.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-day8/src/streamLiu/concat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-day8/src/streamLiu/filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-day8/src/streamLiu/filter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-day8/src/streamLiu/limit.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-day8/src/streamLiu/limit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-day8/src/streamLiu/map.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-day8/src/streamLiu/map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-day8/src/streamLiu/skip.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-day8/src/streamLiu/skip.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -265,14 +260,9 @@
       <workItem from="1654861974242" duration="7290000" />
       <workItem from="1654876623029" duration="58000" />
       <workItem from="1654948749671" duration="5521000" />
-      <workItem from="1655031508423" duration="7672000" />
-    </task>
-    <task id="LOCAL-00058" summary="note">
-      <created>1653029256040</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1653029256041</updated>
+      <workItem from="1655031508423" duration="8302000" />
+      <workItem from="1655044714683" duration="91000" />
+      <workItem from="1655124695669" duration="28000" />
     </task>
     <task id="LOCAL-00059" summary="note">
       <created>1653038423725</created>
@@ -610,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655043355591</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="note">
+      <created>1655044281599</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1655044281599</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
