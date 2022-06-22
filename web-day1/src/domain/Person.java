@@ -43,4 +43,11 @@ public class Person {
     public void setAge(int age) {
         this.age = age;
     }
+
+    public void eat(){
+        System.out.println("eating...");
+    }
+    public void eat(String what){
+        System.out.println("eat" + what);
+    }
 }
