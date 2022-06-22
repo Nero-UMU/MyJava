@@ -28,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/kt_test/kt_test.iml" filepath="$PROJECT_DIR$/kt_test/kt_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/laptop/laptop.iml" filepath="$PROJECT_DIR$/laptop/laptop.iml" />
       <module fileurl="file://$PROJECT_DIR$/redbag/redbag.iml" filepath="$PROJECT_DIR$/redbag/redbag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-day1/web-day1.iml" filepath="$PROJECT_DIR$/web-day1/web-day1.iml" />
     </modules>
   </component>
 </project>
