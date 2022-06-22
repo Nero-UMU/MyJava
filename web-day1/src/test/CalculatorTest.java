@@ -1,10 +1,20 @@
 package test;
 
 import junit.Calculator;
+import org.junit.After;
 import org.junit.Assert;
+import org.junit.Before;
 import org.junit.Test;
 
 public class CalculatorTest {
+    @Before //修饰的方法会在测试方法之前被自动执行
+    public void init(){
+        System.out.println("init...");
+    }
+    @After//修饰的方法会在测试方法之后被自动执行
+    public void close(){
+        System.out.println("end...");
+    }
     @Test
     public void testAdd(){
 //        System.out.println("运行了");

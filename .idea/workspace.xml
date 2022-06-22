@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change afterPath="$PROJECT_DIR$/web-day1/src/junit/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-day1/src/junit/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-day1/src/test/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-day1/web-day1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-day1/src/test/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-day1/src/test/CalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +75,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.testSub">
+  <component name="RunManager" selected="JUnit.CalculatorTest">
     <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="junit.CalculatorTest" />
       <module name="web-day1" />
@@ -157,8 +151,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CalculatorTest.testSub" />
         <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.CalculatorTest.testSub" />
         <item itemvalue="JUnit.CalculatorTest.testAdd" />
         <item itemvalue="Application.CalculatorTest" />
         <item itemvalue="Application.deom1" />
@@ -296,14 +290,7 @@
       <workItem from="1655622567726" duration="14000" />
       <workItem from="1655622589583" duration="43000" />
       <workItem from="1655720595943" duration="1015000" />
-      <workItem from="1655884098226" duration="1307000" />
-    </task>
-    <task id="LOCAL-00068" summary="note">
-      <created>1653322701893</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1653322701893</updated>
+      <workItem from="1655884098226" duration="1611000" />
     </task>
     <task id="LOCAL-00069" summary="note">
       <created>1653481419833</created>
@@ -641,7 +628,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655884114495</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="note">
+      <created>1655885578436</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1655885578436</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
