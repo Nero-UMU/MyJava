@@ -30,10 +30,16 @@ public class demo2 {
 
         System.out.println("====================");
 
-        //获取所有的成员变量，不论用什么修饰，破坏了封装性
+        //获取所有的成员变量，不论用什么修饰
         Field[] declaredFields = personClass.getDeclaredFields();
         for (Field declaredField : declaredFields) {
             System.out.println(declaredField);
         }
+        //获取单个成员变量，不论用什么修饰
+        Field d = personClass.getDeclaredField("d");
+        System.out.println(d);
+        d.setAccessible(true);//暴力反射，忽略修饰符
+        Object o = d.get(p);
+        System.out.println(o);
     }
 }

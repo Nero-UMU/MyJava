@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2c2320-8567-4327-ba79-05ba5686f6d8" name="变更" comment="note">
-      <change beforePath="$PROJECT_DIR$/web-day1/src/domain/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-day1/src/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-day1/src/reflect/demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web-day1/src/reflect/demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-day1/src/reflect/demo2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +77,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.demo2">
+  <component name="RunManager" selected="Application.demo3">
     <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="reflect.demo1" />
       <module name="web-day1" />
@@ -103,6 +104,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reflect.demo3" />
+      <module name="web-day1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="web-day1" />
       <extension name="coverage">
@@ -114,22 +128,6 @@
       <option name="PACKAGE_NAME" value="test" />
       <option name="MAIN_CLASS_NAME" value="test.CalculatorTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="web-day1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.CalculatorTest" />
-      <option name="METHOD_NAME" value="testAdd" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -152,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo3" />
         <item itemvalue="Application.demo2" />
         <item itemvalue="Application.demo1" />
         <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.CalculatorTest.testSub" />
-        <item itemvalue="JUnit.CalculatorTest.testAdd" />
       </list>
     </recent_temporary>
   </component>
@@ -291,14 +289,7 @@
       <workItem from="1655622567726" duration="14000" />
       <workItem from="1655622589583" duration="43000" />
       <workItem from="1655720595943" duration="1015000" />
-      <workItem from="1655884098226" duration="5943000" />
-    </task>
-    <task id="LOCAL-00071" summary="note">
-      <created>1653488450997</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1653488450997</updated>
+      <workItem from="1655884098226" duration="6908000" />
     </task>
     <task id="LOCAL-00072" summary="note">
       <created>1653489825995</created>
@@ -636,7 +627,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655892255849</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="note">
+      <created>1655892606626</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1655892606626</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
