@@ -16,5 +16,19 @@ public class demo4 {
         //执行方法，有参的
         Method eat1 = personClass.getMethod("eat", String.class);
         eat1.invoke(p, "饭");
+
+        System.out.println("=========================");
+        //获取所有方法
+        Method[] methods = personClass.getMethods();
+        for (Method method : methods) {
+//            System.out.println(method);
+            String name = method.getName();//获取名称
+            System.out.println(name);
+        }
+
+        System.out.println("============================");
+        //获取类名
+        String name = personClass.getName();
+        System.out.println(name);
     }
 }
