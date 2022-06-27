@@ -59,10 +59,10 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -296,13 +296,9 @@
       <workItem from="1656317395163" duration="50000" />
       <workItem from="1656317473214" duration="50000" />
       <workItem from="1656317542809" duration="13000" />
-    </task>
-    <task id="LOCAL-00083" summary="note">
-      <created>1654248023855</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1654248023856</updated>
+      <workItem from="1656317599916" duration="132000" />
+      <workItem from="1656317740060" duration="22000" />
+      <workItem from="1656317838673" duration="633000" />
     </task>
     <task id="LOCAL-00084" summary="note">
       <created>1654257674299</created>
@@ -640,7 +636,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656317201669</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="note">
+      <created>1656317633429</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1656317633429</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
