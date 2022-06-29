@@ -29,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/laptop/laptop.iml" filepath="$PROJECT_DIR$/laptop/laptop.iml" />
       <module fileurl="file://$PROJECT_DIR$/redbag/redbag.iml" filepath="$PROJECT_DIR$/redbag/redbag.iml" />
       <module fileurl="file://$PROJECT_DIR$/web-day1/web-day1.iml" filepath="$PROJECT_DIR$/web-day1/web-day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-day2/web-day2.iml" filepath="$PROJECT_DIR$/web-day2/web-day2.iml" />
     </modules>
   </component>
 </project>
